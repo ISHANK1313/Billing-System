@@ -1,0 +1,8 @@
+apple : 20 : 1
+egg : 30 : 24
+tea : 50 : 10
+soap : 100 : 20
+egg : 30 : 24
+tea : 50 : 10
+sugar : 10 : 1
+kurkure : 10 : 1
